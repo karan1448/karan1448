@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @karan1448
 - 👀 I’m interested in coding and building websites
-- 🌱 I’m currently learning python, java
+- 🌱 I’m currently learning python, cpp
 - 📫You can reach me my linkedin id @Karan Paul 
 - 😄 Pronouns: He/Him
 
